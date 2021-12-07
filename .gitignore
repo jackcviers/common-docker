@@ -5,3 +5,13 @@ target/
 *.iml
 .idea/
 .ipr
+/.project
+/.settings/
+/base/.project
+/base/.settings/
+/docker-utils/.project
+/docker-utils/.settings/
+/jmxterm/.project
+/jmxterm/.settings/
+/utility-belt/.project
+/utility-belt/.settings/
