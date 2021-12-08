@@ -5,3 +5,7 @@ target/
 *.iml
 .idea/
 .ipr
+
+#other editors
+/**/.project
+/**/.settings/
