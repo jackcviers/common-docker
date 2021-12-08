@@ -5,3 +5,7 @@ target/
 *.iml
 .idea/
 .ipr
+
+# other ides
+**/.project
+**/.settings
